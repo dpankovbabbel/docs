@@ -70,3 +70,4 @@ Bayesian A/B tests have a glossary that are different from the frequentist frame
 - Credible Interval: the interval which we believe contains the true parameter at the given probability
 - Chance to Beat: the probability that the test is better than control
 - Expected Loss: the average potential risk if you ship test
+See the link here
